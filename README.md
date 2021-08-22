@@ -1,3 +1,3 @@
 # Apache Kafka Course
 
-https://www.linkedin.com/learning/learn-apache-kafka-for-beginners
+ - [Learn Apache Kafka for Beginners](https://www.linkedin.com/learning/learn-apache-kafka-for-beginners)
